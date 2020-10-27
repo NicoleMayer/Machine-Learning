@@ -1,5 +1,5 @@
 ---
-title: Week2-Linear Regression with Multiple Variables、、
+title: Week2-Linear Regression with Multiple Variables
 date: 2020-06-13 23:33
 ---
 
@@ -42,10 +42,8 @@ Where $\mu_{i}$ is the average of all the values for feature (i) and $s_{i}$ is 
 ![](./_image/2020-06/2020-06-14-10-16-10.png)
 它的整体趋势必然是下降的！可以通过一次迭代下降的大小来定义算法的收敛。下图展示了不OK的情况：
 ![](./_image/2020-06/2020-06-14-10-20-42.png)
-<details>
-<summary>一道相关练习题</summary>
-![](./_image/2020-06/2020-06-14-10-19-52.png)
-</details>
+
+
 
 吴恩达说，在实际情况下，学习率都是试出来的，他通常会采用下面这张方法不断尝试：
 ![](./_image/2020-06/2020-06-14-10-22-26.png)
