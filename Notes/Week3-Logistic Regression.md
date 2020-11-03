@@ -95,10 +95,10 @@ overfit = high variance
 ![](./_image/2020-06/2020-06-19-00-39-35.png)
 * L is a matrix with 0 at the top left and 1's down the diagonal, with 0's everywhere else. 
 * It should have dimension (n+1)×(n+1). 
-* 我没搞明白为什么这里加一个像 identity matrix 一样的矩阵就可以？这是规定的，还是有什么能推导出来的？毕竟在梯度下降里多了 n 个参数，这里只多了 1 个参数？[red]
+* ~~我没搞明白为什么这里加一个像 identity matrix 一样的矩阵就可以？这是规定的，还是有什么能推导出来的？毕竟在梯度下降里多了 n 个参数，这里只多了 1 个参数？~~ 矩阵推导可以解决这个问题
 
 ![](./_image/2020-06/2020-06-19-00-41-34.png)
-在 Normal equation 求解中应用正则化技术有一个好处，那就是它使得矩阵必定是可逆的！当然，这里咋证明的我也没去 figure out[red]
+在 Normal equation 求解中应用正则化技术有一个好处，那就是它使得矩阵必定是可逆的！~~当然，这里咋证明的我也没去 figure out~~ 已理解
 
 **最后来展示展示加入正则化技术的代码咋写：**
 ![](./_image/2020-06/2020-06-19-09-41-08.png)
