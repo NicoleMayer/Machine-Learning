@@ -15,8 +15,6 @@ date: 2020-08-05 10:06
 ## 第四步：learningCurve.m
 ## 第五步：polyFeatures.m
 ## 第六步：featureNormalize.m
-## 第七步：
-## 第八步：
 
 # linearRegCostFunction.m 
 ![](./_image/2020-08/2020-08-05-10-43-49.png)

@@ -10,8 +10,8 @@ Debugging a learning algorithm 可能尝试的方向：
 下面这个问题就概括了Andrew想说的话：
 ![](./_image/2020-07/2020-07-23-23-32-27.png?r=61)
 
-* split up the data into two sets: a**training set**and a**test set**
-* Typically, the training set consists of 70 % of your data and the test set is the remaining 30%.
+* split up the data into two sets: a **training set** and a **test set**
+* Typically, the training set consists of 70% of your data and the test set is the remaining 30%.
 
 下面是DL过程的新方法：
 ![](./_image/2020-07/2020-07-23-23-52-40.png)
