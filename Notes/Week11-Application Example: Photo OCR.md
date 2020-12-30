@@ -1,5 +1,5 @@
 ---
-title: Week11-Application Example: Photo OCR
+title: Week11-Application Example-Photo OCR
 date: 2020-09-17 11:50
 ---
 
@@ -28,10 +28,15 @@ date: 2020-09-17 11:50
 ![](./_image/2020-09-17/2020-09-17-12-12-40.png)
 ![](./_image/2020-09-17/2020-09-17-12-13-39.png)
 ![](./_image/2020-09-17/2020-09-17-12-14-38.png)
+
 - - - - - 
+
 本来这题我选c，居然错了！！
+
 ![](./_image/2020-09-17/2020-09-17-12-16-06.png)
-我对正确答案存疑！
+
+~~我对正确答案存疑！~~ 正确答案也不是不能理解，只是我总觉得尽管给定一样的顺序，训练的随机性应该会对结果造成一些扰动吧？
+
 ![](./_image/2020-09-17/2020-09-17-12-21-00.png)
 
 ## Ceiling Analysis: What Part of the Pipeline to Work on Next
