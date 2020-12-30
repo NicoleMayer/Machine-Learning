@@ -14,9 +14,9 @@ This is my note for ML course from Andrew Ng
 | 9    | [Week9-Anomaly Detection.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/Week9-Anomaly%20Detection.md) / [Week9-Exercise 8.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/Week9-Exercise%208.md)                                                   | 20.12.15 ✅ |
 | 10   | [Week10-Large Scale Machine Learning.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/Week10-Large%20Scale%20Machine%20Learning.md)                                                                                                                                        | 20.12.24 ✅ |
 | 11   | [Week11-Application Example: Photo OCR.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/Week11-Application%20Example:%20Photo%20OCR.md)                                                                                                                                    | 20.12.30 ✅ |
-|      | [神经网络篇的总结.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/神经网络篇的总结.md)                                                                                                                                                                                    | ❌          |
-|      | [课程总结.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/课程总结.md)                                                                                                                                                                                                    | ❌          |
+|      | [神经网络篇的总结.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/神经网络篇的总结.md)                                                                                                                                                                                    | 20.12.30 ✅ |
+|      | [课程总结.md](https://github.com/NicoleMayer/Machine-Learning/blob/master/Notes/课程总结.md)                                                                                                                                                                                                    | 20.12.30 ✅ |
 
 
-
+完结撒花🎉
 
